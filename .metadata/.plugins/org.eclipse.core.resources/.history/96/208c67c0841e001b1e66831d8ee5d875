@@ -1,0 +1,23 @@
+package messionImpossible;
+
+public class generic_search {
+	int x =0;
+	public generic_search() {
+		
+	}
+	public generic_search(int x) {
+		this.x = x;
+	}
+	public generic_search(int x,int y) {
+		this.x = x;
+	}
+	public static void main(String[] args) {
+		generic_search A = new generic_search(1);
+		generic_search B = new generic_search(2);
+		generic_search C= new generic_search();
+		System.out.println(A.x);
+		System.out.println(B.x);
+		System.out.println(C.x);
+	}
+
+}

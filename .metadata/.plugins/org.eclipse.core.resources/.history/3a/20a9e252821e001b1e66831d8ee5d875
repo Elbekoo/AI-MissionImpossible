@@ -1,0 +1,14 @@
+package messionImpossible;
+
+public class generic_search {
+
+	public generic_search() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

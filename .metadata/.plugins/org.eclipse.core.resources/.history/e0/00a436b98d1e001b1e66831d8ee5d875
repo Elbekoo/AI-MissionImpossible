@@ -1,0 +1,14 @@
+package messionImpossible;
+
+public class IMF_member {
+
+	public IMF_member() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

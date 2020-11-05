@@ -1,0 +1,23 @@
+package messionImpossible;
+
+public class IMF_member {
+	Point point;
+	boolean rescued;
+	int health;
+	public IMF_member(Point point,boolean rescued,int health) {
+		this.point=point;
+		this.rescued=rescued;
+		this.health=health;
+		
+	}
+	public IMF_member(Point point,int health) {
+		this.point=point;
+		this.health=health;
+		
+	}
+	public static void main(String[] args) {
+		
+
+	}
+
+}
